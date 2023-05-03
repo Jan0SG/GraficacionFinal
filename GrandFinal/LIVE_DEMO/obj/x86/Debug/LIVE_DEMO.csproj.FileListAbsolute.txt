@@ -1,0 +1,22 @@
+C:\Users\erizo\Documents\Graficacion y videojuegos\Motor-OBJ-master\LIVE_DEMO\bin\Debug\LIVE_DEMO.exe.config
+C:\Users\erizo\Documents\Graficacion y videojuegos\Motor-OBJ-master\LIVE_DEMO\bin\Debug\LIVE_DEMO.exe
+C:\Users\erizo\Documents\Graficacion y videojuegos\Motor-OBJ-master\LIVE_DEMO\bin\Debug\LIVE_DEMO.pdb
+C:\Users\erizo\Documents\Graficacion y videojuegos\Motor-OBJ-master\LIVE_DEMO\obj\x86\Debug\LIVE_DEMO.csproj.AssemblyReference.cache
+C:\Users\erizo\Documents\Graficacion y videojuegos\Motor-OBJ-master\LIVE_DEMO\obj\x86\Debug\LIVE_DEMO.csproj.SuggestedBindingRedirects.cache
+C:\Users\erizo\Documents\Graficacion y videojuegos\Motor-OBJ-master\LIVE_DEMO\obj\x86\Debug\LIVE_DEMO.MAIN_FORM.resources
+C:\Users\erizo\Documents\Graficacion y videojuegos\Motor-OBJ-master\LIVE_DEMO\obj\x86\Debug\LIVE_DEMO.Properties.Resources.resources
+C:\Users\erizo\Documents\Graficacion y videojuegos\Motor-OBJ-master\LIVE_DEMO\obj\x86\Debug\LIVE_DEMO.csproj.GenerateResource.cache
+C:\Users\erizo\Documents\Graficacion y videojuegos\Motor-OBJ-master\LIVE_DEMO\obj\x86\Debug\LIVE_DEMO.csproj.CoreCompileInputs.cache
+C:\Users\erizo\Documents\Graficacion y videojuegos\Motor-OBJ-master\LIVE_DEMO\obj\x86\Debug\LIVE_DEMO.exe
+C:\Users\erizo\Documents\Graficacion y videojuegos\Motor-OBJ-master\LIVE_DEMO\obj\x86\Debug\LIVE_DEMO.pdb
+C:\Users\erizo\Downloads\Motor-OBJ-master\LIVE_DEMO\bin\Debug\LIVE_DEMO.exe.config
+C:\Users\erizo\Downloads\Motor-OBJ-master\LIVE_DEMO\bin\Debug\LIVE_DEMO.exe
+C:\Users\erizo\Downloads\Motor-OBJ-master\LIVE_DEMO\bin\Debug\LIVE_DEMO.pdb
+C:\Users\erizo\Downloads\Motor-OBJ-master\LIVE_DEMO\obj\x86\Debug\LIVE_DEMO.csproj.AssemblyReference.cache
+C:\Users\erizo\Downloads\Motor-OBJ-master\LIVE_DEMO\obj\x86\Debug\LIVE_DEMO.csproj.SuggestedBindingRedirects.cache
+C:\Users\erizo\Downloads\Motor-OBJ-master\LIVE_DEMO\obj\x86\Debug\LIVE_DEMO.MAIN_FORM.resources
+C:\Users\erizo\Downloads\Motor-OBJ-master\LIVE_DEMO\obj\x86\Debug\LIVE_DEMO.Properties.Resources.resources
+C:\Users\erizo\Downloads\Motor-OBJ-master\LIVE_DEMO\obj\x86\Debug\LIVE_DEMO.csproj.GenerateResource.cache
+C:\Users\erizo\Downloads\Motor-OBJ-master\LIVE_DEMO\obj\x86\Debug\LIVE_DEMO.csproj.CoreCompileInputs.cache
+C:\Users\erizo\Downloads\Motor-OBJ-master\LIVE_DEMO\obj\x86\Debug\LIVE_DEMO.exe
+C:\Users\erizo\Downloads\Motor-OBJ-master\LIVE_DEMO\obj\x86\Debug\LIVE_DEMO.pdb

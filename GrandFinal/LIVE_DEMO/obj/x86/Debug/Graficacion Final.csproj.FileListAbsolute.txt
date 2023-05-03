@@ -1,0 +1,11 @@
+C:\Users\erizo\Downloads\Motor-OBJ-master\LIVE_DEMO\bin\Debug\LIVE_DEMO.exe.config
+C:\Users\erizo\Downloads\Motor-OBJ-master\LIVE_DEMO\bin\Debug\LIVE_DEMO.exe
+C:\Users\erizo\Downloads\Motor-OBJ-master\LIVE_DEMO\bin\Debug\LIVE_DEMO.pdb
+C:\Users\erizo\Downloads\Motor-OBJ-master\LIVE_DEMO\obj\x86\Debug\Graficacion Final.csproj.AssemblyReference.cache
+C:\Users\erizo\Downloads\Motor-OBJ-master\LIVE_DEMO\obj\x86\Debug\Graficacion Final.csproj.SuggestedBindingRedirects.cache
+C:\Users\erizo\Downloads\Motor-OBJ-master\LIVE_DEMO\obj\x86\Debug\LIVE_DEMO.MAIN_FORM.resources
+C:\Users\erizo\Downloads\Motor-OBJ-master\LIVE_DEMO\obj\x86\Debug\LIVE_DEMO.Properties.Resources.resources
+C:\Users\erizo\Downloads\Motor-OBJ-master\LIVE_DEMO\obj\x86\Debug\Graficacion Final.csproj.GenerateResource.cache
+C:\Users\erizo\Downloads\Motor-OBJ-master\LIVE_DEMO\obj\x86\Debug\Graficacion Final.csproj.CoreCompileInputs.cache
+C:\Users\erizo\Downloads\Motor-OBJ-master\LIVE_DEMO\obj\x86\Debug\LIVE_DEMO.exe
+C:\Users\erizo\Downloads\Motor-OBJ-master\LIVE_DEMO\obj\x86\Debug\LIVE_DEMO.pdb
